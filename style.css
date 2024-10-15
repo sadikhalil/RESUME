@@ -21,7 +21,10 @@ body{
   
 h1{
     color:rgb(19, 51, 109);
-    text-decoration:dashed;
+    text-align:left
+    text-decoration:doubled;
+    backgroun-color:blanchedalmond;
+    font-size:large
 }
 h2{
     color: rgb(19, 51, 109);
@@ -29,6 +32,7 @@ h2{
 h3{
 color: rgb(19, 51, 109);
     text-decoration: underline;
+    text-align:right
 }
 h4{
     text-decoration: underline;
